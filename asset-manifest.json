@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/brainlypanda/static/css/main.3e628d55.css",
-    "main.js": "/brainlypanda/static/js/main.a29cb210.js",
+    "main.js": "/brainlypanda/static/js/main.05f4dca3.js",
     "static/media/img-8.jpg": "/brainlypanda/static/media/img-8.b2e4f68fa1db8de22a8a.jpg",
     "index.html": "/brainlypanda/index.html",
     "main.3e628d55.css.map": "/brainlypanda/static/css/main.3e628d55.css.map",
-    "main.a29cb210.js.map": "/brainlypanda/static/js/main.a29cb210.js.map"
+    "main.05f4dca3.js.map": "/brainlypanda/static/js/main.05f4dca3.js.map"
   },
   "entrypoints": [
     "static/css/main.3e628d55.css",
-    "static/js/main.a29cb210.js"
+    "static/js/main.05f4dca3.js"
   ]
 }
